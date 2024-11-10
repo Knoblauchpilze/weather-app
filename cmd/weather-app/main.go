@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/KnoblauchPilze/my-api/pkg/rest"
-	"github.com/KnoblauchPilze/my-api/pkg/server"
+	"github.com/KnoblauchPilze/weather-app/pkg/rest"
+	"github.com/KnoblauchPilze/weather-app/pkg/server"
 )
 
 func main() {

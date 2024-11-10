@@ -19,7 +19,7 @@ The programming language to be used for this challenge has already been agreed u
 You can start the app by running the following commands:
 
 ```bash
-cd cmd/my-api
+cd cmd/weather-app
 make run
 ```
 

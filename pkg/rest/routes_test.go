@@ -3,7 +3,7 @@ package rest
 import (
 	"testing"
 
-	"github.com/KnoblauchPilze/my-api/pkg/server"
+	"github.com/KnoblauchPilze/weather-app/pkg/server"
 	"github.com/stretchr/testify/mock"
 )
 

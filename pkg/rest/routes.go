@@ -1,8 +1,8 @@
 package rest
 
 import (
-	"github.com/KnoblauchPilze/my-api/pkg/controller"
-	"github.com/KnoblauchPilze/my-api/pkg/server"
+	"github.com/KnoblauchPilze/weather-app/pkg/controller"
+	"github.com/KnoblauchPilze/weather-app/pkg/server"
 )
 
 func AddWeatherRoutes(s server.Server) {

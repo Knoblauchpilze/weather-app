@@ -3,7 +3,7 @@ package controller
 import (
 	"net/http"
 
-	"github.com/KnoblauchPilze/my-api/pkg/service"
+	"github.com/KnoblauchPilze/weather-app/pkg/service"
 	"github.com/labstack/echo/v4"
 )
 

@@ -1,4 +1,4 @@
-module github.com/KnoblauchPilze/my-api
+module github.com/KnoblauchPilze/weather-app
 
 go 1.22.1
 

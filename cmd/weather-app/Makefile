@@ -1,5 +1,5 @@
 
-APPLICATION ?= my-api
+APPLICATION ?= weather-app
 
 setup:
 	mkdir -p build/bin
